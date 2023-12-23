@@ -1,4 +1,4 @@
-<h1>Signup,Login,Logout Functions</h1>
+<h1>Signup,Login,Logout Functionalities</h1>
 <h2>In this project i created a signup,login,logout pages and using the python's django framework i add the functionlities </h2>
 <h3>Step 1: In signup page filled all details. After that i redirect to login page</h3>
 <img src="image/img-1.png">
